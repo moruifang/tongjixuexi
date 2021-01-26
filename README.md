@@ -4,8 +4,6 @@
 
 **强烈建议**：对于希望弄清楚算法原理的同学，最好对着书上的原理看代码，并动手修改调试代码。
 
-如果发现我实现的代码有问题，也希望大家能够一起讨论。
-
 # 本代码库特点
 
 + 尽可能少的使用依赖库
@@ -25,11 +23,11 @@
 
   + 剪枝前 
 
-    <img src="img/dt_cut_before.png" alt="image-20210124155352515" style="zoom: 50%;" />
+    <img src="img/dt_cut_before.png" alt="dt_cut_before" style="zoom: 50%;" />
   
   + 剪枝后 
   
-    <img src="img/dt_cut_after.png" alt="image-20210124155454174" style="zoom: 50%;" />
+    <img src="img/dt_cut_after.png" alt="dt_cut_after" style="zoom: 50%;" />
 
 + SVM径向基分类面
 
